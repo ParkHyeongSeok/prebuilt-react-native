@@ -1,0 +1,10 @@
+{
+  "name": "react-native-prebuild",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "19.1.0",
+    "react-native": "0.76.0",
+    "yarn": "^1.22.22"
+  }
+}

@@ -1,1 +1,2 @@
-## Prebuilt Package
+## ReactNative Prebuilt Package
+- xcframework
